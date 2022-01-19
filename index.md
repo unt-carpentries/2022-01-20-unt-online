@@ -328,6 +328,9 @@ change the value of `carpentry` to `incubator`.
 
 <hr/>
 
+<h2 id="documents">Documents</h2>
+<p><a href="files/library_carpentry_slf_20220120.pptx">Navigating the Command Line (UNIX Shell/Bash) Slides</a></p>
+<hr/>
 
 {% comment %}
 SCHEDULE
